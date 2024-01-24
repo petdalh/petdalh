@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img width='400' src="https://github-readme-activity-graph.vercel.app/graph?username=alexandresanlim&theme=tokyo-night" />
+  <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=petdalh" />
 </p>
 
 <div style="display: inline-block;">
