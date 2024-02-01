@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://www.linkedin.com/petter/](https://www.linkedin.com/in/petter-dalhaug-001311270/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=petdalh" />
-</p>
 
 <div style="display: inline-block;">
 
